@@ -166,7 +166,7 @@ button{
     top:8rem;
      background-image: linear-gradient(to bottom,#220351,#d44177);  
     /* background-color: #d44177; */
-    opacity:50%;
+    opacity:0.5;
     z-index:1;
     
     
